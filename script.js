@@ -144,7 +144,7 @@ window.downloadVCard = function() {
         org: "MBM ENTERPRISE",
         title: "Founder & CEO",
         phone1: "+8801736907380",
-        phone2: "+8801410307380",
+        phone2: "+8801830038179",
         email: "merazbinmizanur@gmail.com",
         fb: "https://www.facebook.com/merazbinmizanur",
         address: "Sultan Market, Borobari, Gazipur, Bangladesh",
